@@ -1,1 +1,1 @@
-# -SwiftUI-Exercises-from-ISTEC
+# SwiftUI-Exercises-from-ISTEC
